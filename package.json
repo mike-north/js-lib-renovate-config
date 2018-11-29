@@ -42,14 +42,23 @@
           }
         },
         {
-          "packageNames": [
-            "^@types"
+          "packagePatterns": [
+            "^@types/"
           ],
           "groupName": "ambient types",
           "groupSlug": "ambient-types",
           "minor": {
             "automerge": false
           }
+        },
+        {
+          "packageNames": [
+            "semantic-release"
+          ],
+          "packagePatterns": [
+            "^@semantic-release/"
+          ]
+          "extends": ["schedule:weekends"]
         },
         {
           "packageNames": [
