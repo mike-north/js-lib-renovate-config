@@ -28,6 +28,10 @@
         ":automergeMinor",
         ":semanticCommits"
       ],
+      "timezone": "America/Los_Angeles",
+      "schedule": [
+        "before 7am"
+      ],
       "packageRules": [
         {
           "packageNames": [
@@ -57,7 +61,7 @@
           ],
           "packagePatterns": [
             "^@semantic-release/"
-          ]
+          ],
           "extends": ["schedule:weekends"]
         },
         {
