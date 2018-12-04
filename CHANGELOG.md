@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.2...v1.1.3) (2018-12-04)
+
+
+### Bug Fixes
+
+* shorter PR titles ([e711cfc](https://github.com/mike-north/js-lib-renovate-config/commit/e711cfc))
+
 ## [1.1.2](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.1...v1.1.2) (2018-12-04)
 
 
