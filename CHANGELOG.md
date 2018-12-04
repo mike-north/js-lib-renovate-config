@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.1...v1.1.2) (2018-12-04)
+
+
+### Bug Fixes
+
+* don't start CI jobs until 3am ([000b9b6](https://github.com/mike-north/js-lib-renovate-config/commit/000b9b6))
+
 ## [1.1.1](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.0...v1.1.1) (2018-12-03)
 
 
