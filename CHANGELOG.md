@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.3...v1.1.4) (2018-12-04)
+
+
+### Bug Fixes
+
+* bump version ([6edc172](https://github.com/mike-north/js-lib-renovate-config/commit/6edc172))
+
 ## [1.1.3](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.2...v1.1.3) (2018-12-04)
 
 
