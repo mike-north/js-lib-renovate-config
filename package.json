@@ -38,6 +38,16 @@
       "commitMessageBody": "{{{commitMessageAction}}} {{{commitMessageExtra}}}",
       "packageRules": [
         {
+          "groupName": "Mike's Packages",
+          "groupSlug": "mn-libs",
+          "packagePatterns": [
+            "^@mike-north/"
+          ],
+          "schedule": [
+            "at any time"
+          ]
+        },
+        {
           "packageNames": [
             "typescript",
             "tslint",
