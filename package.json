@@ -31,8 +31,9 @@
       "timezone": "America/Los_Angeles",
       "schedule": [
         "after 3am",
-        "before 8am"
+        "before 9am"
       ],
+      "commitMessageTopic": "{{depName}}",
       "packageRules": [
         {
           "packageNames": [
@@ -63,7 +64,9 @@
           "packagePatterns": [
             "^@semantic-release/"
           ],
-          "extends": ["schedule:weekends"]
+          "extends": [
+            "schedule:weekends"
+          ]
         },
         {
           "packageNames": [
