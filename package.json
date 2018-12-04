@@ -30,7 +30,8 @@
       ],
       "timezone": "America/Los_Angeles",
       "schedule": [
-        "before 7am"
+        "after 3am",
+        "before 8am"
       ],
       "packageRules": [
         {
