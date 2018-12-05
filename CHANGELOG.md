@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.5...v1.2.0) (2018-12-05)
+
+
+### Features
+
+* monorepo - MS Documentation tools ([0745e99](https://github.com/mike-north/js-lib-renovate-config/commit/0745e99))
+
 ## [1.1.5](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.4...v1.1.5) (2018-12-05)
 
 
