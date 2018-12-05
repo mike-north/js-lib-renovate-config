@@ -60,6 +60,15 @@
           }
         },
         {
+          "groupName": "MS documentation tools",
+          "groupSlug": "ms-doc-tools",
+          "packageNames": [
+            "@microsoft/tsdoc",
+            "@microsoft/api-extractor",
+            "@microsoft/api-documenter"
+          ]
+        },
+        {
           "packagePatterns": [
             "^@types/"
           ],
