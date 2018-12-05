@@ -1,3 +1,11 @@
+## [1.1.5](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.4...v1.1.5) (2018-12-05)
+
+
+### Bug Fixes
+
+* immediately apply [@mike-north](https://github.com/mike-north) library upgrdes ([7fb7198](https://github.com/mike-north/js-lib-renovate-config/commit/7fb7198))
+* move information to commit message body ([0a9b55a](https://github.com/mike-north/js-lib-renovate-config/commit/0a9b55a))
+
 ## [1.1.4](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.3...v1.1.4) (2018-12-04)
 
 
