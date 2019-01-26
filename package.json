@@ -28,6 +28,7 @@
         ":automergeMinor",
         ":semanticCommits"
       ],
+      "lockFileMaintenance": true,
       "timezone": "America/Los_Angeles",
       "schedule": [
         "after 3am",
