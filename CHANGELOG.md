@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/mike-north/js-lib-renovate-config/compare/v1.2.0...v1.3.0) (2019-01-26)
+
+
+### Features
+
+* enable lockFileMaintenance ([6d3c592](https://github.com/mike-north/js-lib-renovate-config/commit/6d3c592))
+
 # [1.2.0](https://github.com/mike-north/js-lib-renovate-config/compare/v1.1.5...v1.2.0) (2018-12-05)
 
 
