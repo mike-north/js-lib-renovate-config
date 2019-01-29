@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/mike-north/js-lib-renovate-config/compare/v1.3.0...v1.3.1) (2019-01-29)
+
+
+### Bug Fixes
+
+* lockfile maintenance commit message ([2901cc2](https://github.com/mike-north/js-lib-renovate-config/commit/2901cc2))
+
 # [1.3.0](https://github.com/mike-north/js-lib-renovate-config/compare/v1.2.0...v1.3.0) (2019-01-26)
 
 
