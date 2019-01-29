@@ -28,7 +28,10 @@
         ":automergeMinor",
         ":semanticCommits"
       ],
-      "lockFileMaintenance": true,
+      "lockFileMaintenance": {
+        "enabled": true,
+        "commitMessage": "chore: lockfile maintenance"
+      },
       "timezone": "America/Los_Angeles",
       "schedule": [
         "after 3am",
